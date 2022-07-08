@@ -4,4 +4,4 @@ The development here were made using a course available on Udemy: https://www.ud
 
 This folder will be used as reference for my next projects, studies and work.
 
-I'm also trying to use Github for code versioning :).
+I'm also trying to use Github for code versioning :)
